@@ -1,0 +1,5 @@
+
+Resources:
+  MyS3Bucket: #my s3 bucket logical id
+    Type: AWS::S3::Bucket
+    Properties: {}
